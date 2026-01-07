@@ -4,4 +4,4 @@
 **Las tecnologias usadas son HTML, CSS y JavaScript**
 
 ##Autor##
-**Daniel Vallejo**.
+**Daniel Vallejo**
